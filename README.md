@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hi humans!
+
+wars364 here, I have dream
